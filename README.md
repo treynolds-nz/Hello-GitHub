@@ -2,6 +2,7 @@
 Trial repository for using GitHub
 
 I'm UserB and I'm working on a new feature called GO.
+Now I've done some more work on it and it's complete.
 
 History
 -------
