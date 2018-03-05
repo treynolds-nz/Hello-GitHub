@@ -6,6 +6,8 @@ Now I've done some more work on it and it's complete.
 
 I'm UserA. I have added a Stop button.
 
+I've begun working on the GO button. It's working but I need to finalise the shape and position.
+
 History
 -------
 5/3/18
