@@ -8,6 +8,8 @@ I'm UserA. I have added a Stop button.
 
 GO Button, x=40, y=183, color=GREEN
 
+RemoteChange = true.
+
 History
 -------
 5/3/18
