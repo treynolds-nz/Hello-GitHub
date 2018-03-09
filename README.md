@@ -10,6 +10,8 @@ GO Button, x=40, y=183, color=GREEN
 
 RemoteChange = true.
 
+VuMeter.volume = fsd;
+
 History
 -------
 5/3/18
